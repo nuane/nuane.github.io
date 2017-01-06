@@ -1,0 +1,39 @@
+{ "height":10,
+ "layers":[
+        {
+         "data":[0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":10,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }],
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "tileheight":48,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"..\/sprites\/yellow.png",
+         "imageheight":48,
+         "imagewidth":48,
+         "margin":0,
+         "name":"yellow",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tileheight":48,
+         "tilewidth":48
+        }],
+ "tilewidth":48,
+ "version":1,
+ "width":10
+}

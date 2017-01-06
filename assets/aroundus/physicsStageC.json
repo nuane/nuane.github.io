@@ -1,0 +1,57 @@
+	{ 
+		
+		"stageC": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   2, 366.5  ,  3838, 373.5  ,  3932, 378.5  ,  0, 399.5  ,  -0.5, 397  ,  -0.5, 367  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   5354, 283.5  ,  5381, 299.5  ,  4940, 220.5  ,  5026, 220.5  ,  5096, 224.5  ,  5180, 234.5  ,  5264, 251.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   4817, 229.5  ,  4939, 220.5  ,  4550, 304.5  ,  4597, 282.5  ,  4707, 248.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   2582, 249.5  ,  3838, 373.5  ,  1744, 366.5  ,  2322, 249.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   5598, 398.5  ,  4398, 350.5  ,  4939, 220.5  ,  4940, 220.5  ,  5381, 299.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   4939, 220.5  ,  4494, 325.5  ,  4550, 304.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   3932, 378.5  ,  5598, 398.5  ,  0, 399.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   4142, 376.5  ,  5598, 398.5  ,  3932, 378.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   4300, 365.5  ,  5598, 398.5  ,  4142, 376.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   4398, 350.5  ,  5598, 398.5  ,  4300, 365.5  ]
+				}  
+		]
+		
+	}

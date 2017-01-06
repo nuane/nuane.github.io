@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with http://www.physicseditor.de -->
+<bodydef version="1.0">
+    <bodies numBodies="1">
+
+        <body name="ship" dynamic="true" numFixtures="1">
+
+            <fixture
+                density="2"
+                friction="0"
+                restitution="0"
+                filter_categoryBits="1"
+                filter_groupIndex="0"
+                filter_maskBits="65535"
+                isSensor="false"
+                type="POLYGON"
+                numPolygons="7"
+                >
+
+
+                <polygon numVertexes="6">
+
+                    <vertex x="1421.0000" y="239.5000" />
+
+                    <vertex x="1391.0000" y="214.5000" />
+
+                    <vertex x="1387.0000" y="-158.5000" />
+
+                    <vertex x="1398.0000" y="-178.5000" />
+
+                    <vertex x="1399.0000" y="-178.5000" />
+
+                    <vertex x="1424.5000" y="-173.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="4">
+
+                    <vertex x="-73.5000" y="-35.0000" />
+
+                    <vertex x="-603.0000" y="73.5000" />
+
+                    <vertex x="-458.0000" y="23.5000" />
+
+                    <vertex x="-89.0000" y="-48.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="4">
+
+                    <vertex x="-603.0000" y="73.5000" />
+
+                    <vertex x="-1062.0000" y="73.5000" />
+
+                    <vertex x="-980.0000" y="21.5000" />
+
+                    <vertex x="-458.0000" y="23.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="4">
+
+                    <vertex x="-1074.0000" y="-118.5000" />
+
+                    <vertex x="-980.0000" y="-139.5000" />
+
+                    <vertex x="-980.0000" y="21.5000" />
+
+                    <vertex x="-1062.0000" y="73.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-1983.0000" y="-173.5000" />
+
+                    <vertex x="-889.5000" y="-162.0000" />
+
+                    <vertex x="-1074.0000" y="-118.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="4">
+
+                    <vertex x="1391.0000" y="214.5000" />
+
+                    <vertex x="1421.0000" y="239.5000" />
+
+                    <vertex x="-1054.0000" y="239.5000" />
+
+                    <vertex x="-1048.0000" y="214.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-1983.0000" y="-173.5000" />
+
+                    <vertex x="1398.0000" y="-178.5000" />
+
+                    <vertex x="1387.0000" y="-158.5000" />
+
+                </polygon>
+
+
+            </fixture>
+
+        </body>
+
+    </bodies>
+    <metadata>
+        <format>1</format>
+        <ptm_ratio></ptm_ratio>
+    </metadata>
+</bodydef>
