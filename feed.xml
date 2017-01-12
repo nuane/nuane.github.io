@@ -5,9 +5,22 @@
     <description>Site Meta. Phaser game repository space :) :)</description>
     <link>https://nuane.github.io/project/test/</link>
     <atom:link href="https://nuane.github.io/project/test/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 06 Jan 2017 00:28:35 -0800</pubDate>
-    <lastBuildDate>Fri, 06 Jan 2017 00:28:35 -0800</lastBuildDate>
+    <pubDate>Wed, 11 Jan 2017 17:05:34 -0800</pubDate>
+    <lastBuildDate>Wed, 11 Jan 2017 17:05:34 -0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Project: JamPi</title>
+        <description>
+</description>
+        <pubDate>Sun, 11 Dec 2016 13:26:00 -0800</pubDate>
+        <link>https://nuane.github.io/project/test/project/JamPi2</link>
+        <guid isPermaLink="true">https://nuane.github.io/project/test/project/JamPi2</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
     
       <item>
         <title>Project: JamPi</title>
