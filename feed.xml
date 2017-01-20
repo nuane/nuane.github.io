@@ -3,19 +3,19 @@
   <channel>
     <title>Benjamin Krantz</title>
     <description>Site Meta. Phaser game repository space :) :)</description>
-    <link>https://nuane.github.io/project/test/</link>
-    <atom:link href="https://nuane.github.io/project/test/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 11 Jan 2017 17:05:34 -0800</pubDate>
-    <lastBuildDate>Wed, 11 Jan 2017 17:05:34 -0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 20 Jan 2017 13:56:11 -0800</pubDate>
+    <lastBuildDate>Fri, 20 Jan 2017 13:56:11 -0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>Project: JamPi</title>
+        <title>Project: mathbubble</title>
         <description>
 </description>
-        <pubDate>Sun, 11 Dec 2016 13:26:00 -0800</pubDate>
-        <link>https://nuane.github.io/project/test/project/JamPi2</link>
-        <guid isPermaLink="true">https://nuane.github.io/project/test/project/JamPi2</guid>
+        <pubDate>Fri, 20 Jan 2017 05:46:00 -0800</pubDate>
+        <link>http://localhost:4000/project/mathbubble</link>
+        <guid isPermaLink="true">http://localhost:4000/project/mathbubble</guid>
         
         
         <category>project</category>
@@ -27,8 +27,21 @@
         <description>
 </description>
         <pubDate>Sun, 11 Dec 2016 13:26:00 -0800</pubDate>
-        <link>https://nuane.github.io/project/test/project/JamPi</link>
-        <guid isPermaLink="true">https://nuane.github.io/project/test/project/JamPi</guid>
+        <link>http://localhost:4000/project/JamPi2</link>
+        <guid isPermaLink="true">http://localhost:4000/project/JamPi2</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: JamPi</title>
+        <description>
+</description>
+        <pubDate>Sun, 11 Dec 2016 13:26:00 -0800</pubDate>
+        <link>http://localhost:4000/project/JamPi</link>
+        <guid isPermaLink="true">http://localhost:4000/project/JamPi</guid>
         
         
         <category>project</category>
@@ -41,8 +54,8 @@
 This is a regular paragraph. Write as much as you like.&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Dec 2016 13:26:00 -0800</pubDate>
-        <link>https://nuane.github.io/project/test/project/runner-prototype</link>
-        <guid isPermaLink="true">https://nuane.github.io/project/test/project/runner-prototype</guid>
+        <link>http://localhost:4000/project/runner-prototype</link>
+        <guid isPermaLink="true">http://localhost:4000/project/runner-prototype</guid>
         
         
         <category>project</category>
@@ -55,8 +68,8 @@ This is a regular paragraph. Write as much as you like.&lt;/p&gt;
 This is a regular paragraph. Write as much as you like.&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Dec 2016 13:26:00 -0800</pubDate>
-        <link>https://nuane.github.io/project/test/project/test</link>
-        <guid isPermaLink="true">https://nuane.github.io/project/test/project/test</guid>
+        <link>http://localhost:4000/project/test</link>
+        <guid isPermaLink="true">http://localhost:4000/project/test</guid>
         
         
         <category>project</category>
@@ -68,8 +81,8 @@ This is a regular paragraph. Write as much as you like.&lt;/p&gt;
         <description>&lt;p&gt;To get to the other side.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 09:54:46 -0700</pubDate>
-        <link>https://nuane.github.io/project/test/question/your-project-name</link>
-        <guid isPermaLink="true">https://nuane.github.io/project/test/question/your-project-name</guid>
+        <link>http://localhost:4000/question/your-project-name</link>
+        <guid isPermaLink="true">http://localhost:4000/question/your-project-name</guid>
         
         
         <category>question</category>
@@ -98,8 +111,8 @@ It is a long established fact that a reader will be distracted by the readable c
 
 </description>
         <pubDate>Fri, 25 Apr 2014 09:54:46 -0700</pubDate>
-        <link>https://nuane.github.io/project/test/blog/wordpress/photoshop/time-to-change-your-apps</link>
-        <guid isPermaLink="true">https://nuane.github.io/project/test/blog/wordpress/photoshop/time-to-change-your-apps</guid>
+        <link>http://localhost:4000/blog/wordpress/photoshop/time-to-change-your-apps</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/wordpress/photoshop/time-to-change-your-apps</guid>
         
         
         <category>blog</category>
@@ -132,8 +145,8 @@ It is a long established fact that a reader will be distracted by the readable c
 
 </description>
         <pubDate>Fri, 25 Apr 2014 09:54:46 -0700</pubDate>
-        <link>https://nuane.github.io/project/test/blog/web-design/development/our-new-logo-is-here</link>
-        <guid isPermaLink="true">https://nuane.github.io/project/test/blog/web-design/development/our-new-logo-is-here</guid>
+        <link>http://localhost:4000/blog/web-design/development/our-new-logo-is-here</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/web-design/development/our-new-logo-is-here</guid>
         
         
         <category>blog</category>
@@ -166,8 +179,8 @@ It is a long established fact that a reader will be distracted by the readable c
 
 </description>
         <pubDate>Fri, 25 Apr 2014 09:54:46 -0700</pubDate>
-        <link>https://nuane.github.io/project/test/blog/tips&tricks/code-snippets/logo-design-contest-starts-now</link>
-        <guid isPermaLink="true">https://nuane.github.io/project/test/blog/tips&tricks/code-snippets/logo-design-contest-starts-now</guid>
+        <link>http://localhost:4000/blog/tips&tricks/code-snippets/logo-design-contest-starts-now</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/tips&tricks/code-snippets/logo-design-contest-starts-now</guid>
         
         
         <category>blog</category>
