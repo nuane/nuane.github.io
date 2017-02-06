@@ -91,8 +91,7 @@
 		}, refreshWaypoints());
 
 		function refreshWaypoints() {
-			setTimeout(function() {
-			}, 1000);
+			setTimeout(function() {}, 1000);
 		}
 
 		$('nav.portfolio-filter ul a').on('click', function() {
@@ -106,16 +105,16 @@
 		function getColumnNumber() {
 			var winWidth = $(window).width(),
 			columnNumber = 1;
-
-			if (winWidth > 1200) {
+      console.log(winWidth);
+			if (winWidth > 1500) {
 				columnNumber = 5;
-			} else if (winWidth > 950) {
+			} else if (winWidth > 1200) {
 				columnNumber = 4;
-			} else if (winWidth > 600) {
+			} else if (winWidth > 900) {
 				columnNumber = 3;
-			} else if (winWidth > 400) {
+			} else if (winWidth > 600) {
 				columnNumber = 2;
-			} else if (winWidth > 250) {
+			} else if (winWidth > 300) {
 				columnNumber = 1;
 			}
 				return columnNumber;
@@ -125,6 +124,7 @@
 				var winWidth = $(window).width(),
 				columnNumber = getColumnNumber(),
 				itemWidth = Math.floor(winWidth / columnNumber);
+        console.log(columnNumber, itemWidth);
 
 				$container.find('.portfolio-item').each(function() {
 					$(this).css( {
@@ -143,8 +143,8 @@
 		});
 
 		$(window).on('resize', function () {
-		setPortfolio();
-	});
+		  setPortfolio();
+	  });
 })(jQuery);
 </script>
 
